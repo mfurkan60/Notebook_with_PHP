@@ -9,6 +9,13 @@ ERGDN Notebook is basic PHP notebook and to do list web applications. You can ta
 * Mysql
 * Apache Server
 
+## ScreenShots
+![alt text](https://github.com/mfurkan60/Notebook_with_PHP/blob/master/screenshots/ERGDN%20Todo.png?raw=true)
+
+![alt text](https://github.com/mfurkan60/Notebook_with_PHP/blob/master/screenshots/ERGDN%20notebook.png?raw=true)
+
+
+
 ## Installation
 * If the operating system you are using Windows  you should download  [wampserver](https://www.wampserver.com/en/)
 * If the operating system you are using MacOs  you should download    [mampserver](https://www.mamp.info/en/downloads/)
