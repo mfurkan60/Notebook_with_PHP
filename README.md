@@ -1,5 +1,7 @@
 # ERGDN Notebook PHP Project
 ERGDN Notebook is basic PHP notebook and to do list web applications. You can take notes and create lists with ERGDN.
+
+Note: This project is not oop based.
 ## Used Technologies
 * HTML5
 * CSS3
